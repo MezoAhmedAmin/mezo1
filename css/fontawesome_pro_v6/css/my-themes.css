@@ -1,0 +1,15 @@
+.theme-blue {
+    --fa-secondary-opacity: 1.0;
+    --fa-primary-color: rgb(0, 195, 255);
+    --fa-secondary-color: blue;
+  }
+  .theme-purple {
+    --fa-secondary-opacity: 1.0;
+    --fa-primary-color: rgb(132, 0, 255);
+    --fa-secondary-color: rgb(77, 4, 196);
+  }
+  .theme-green {
+    --fa-secondary-opacity: 1.0;
+    --fa-primary-color: rgb(5, 182, 5);
+    --fa-secondary-color: rgb(6, 87, 6);
+  }

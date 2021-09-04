@@ -1,0 +1,70 @@
+.amezos{
+    display: block;
+    padding: 2em;
+    background-color:gold;
+    border-radius: 0%;
+    border: 0.2em solid red;
+    box-shadow: 0px 0px 50px limegreen;
+    width: 36em;
+    margin: auto;
+}
+.amezos li {
+    background-color: dodgerblue;
+    display: inline-block;
+    padding: 1em;
+    margin: 1%;
+    border-radius: 3%;
+    border: 0.2em solid blue;
+    box-shadow: 0 0 20px orangered;
+}
+h2:hover{
+    color: dodgerblue;
+}
+.dropbtn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #afafaf;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #cccccc}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    background-color: blue;
+  }
+
+.anotherhtml{
+  width : 1250px;
+  height : 700px;
+}
+p,a,li{
+  font-family:'Nexa Light';
+  font-size: 20px;
+}
